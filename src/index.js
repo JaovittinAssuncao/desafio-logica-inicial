@@ -35,13 +35,3 @@ if(xpHeroi >= 10001 ) {
     patenteHeroi = "Radiante"
       console.log("O Herói de nome " + nomeHeroi + " está no nível de " + patenteHeroi)
 }
-
-
-
- 
-
- 
-
-
-
- 
